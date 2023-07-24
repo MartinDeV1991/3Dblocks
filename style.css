@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    background: #0c4a6e;
+}
+
+button1 {
+    position: absolute;
+    left: 100;
+    top: 100;
+}
